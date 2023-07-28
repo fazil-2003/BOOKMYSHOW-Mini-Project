@@ -12,15 +12,6 @@ It is an clone website of BookMyShow that developed just using HTML, CSS and Jav
 
 2. Clone the GitHub project in your local directory with command `git clone https://github.com/vu3tpz/BookMyShow-Clone` or you can just download the code and unzip it.
 
-
-```
-git clone https://github.com/vu3tpz/BookMyShow-Clone
-
-```
-
-
 3. Open index.html file in any Browser.
-
-# Screen Layout 🎟️
 
 ## The End..⚔️
